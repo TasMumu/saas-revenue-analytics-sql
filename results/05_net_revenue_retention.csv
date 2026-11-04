@@ -1,0 +1,6 @@
+region,base_accounts,base_mrr,retained_mrr,nrr_pct,grr_pct,logo_churn_pct
+North America,51,24505.00,26369.00,107.6,77.5,25.5
+APAC,21,15546.00,15376.00,98.9,83.8,28.6
+Europe,46,22731.00,19612.00,86.3,77.1,17.4
+LATAM,15,6313.00,5371.00,85.1,67.1,40.0
+All regions,133,69095.00,66728.00,96.6,77.9,24.8

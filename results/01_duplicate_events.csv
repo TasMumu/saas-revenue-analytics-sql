@@ -1,0 +1,9 @@
+event_name,raw_events,duplicate_deliveries,clean_events,duplicate_pct
+report_created,35161,503,34658,1.43
+dashboard_viewed,30438,471,29967,1.55
+login,24071,359,23712,1.49
+export,11841,165,11676,1.39
+dashboard_shared,9807,144,9663,1.47
+invite_sent,5029,91,4938,1.81
+integration_connected,3260,35,3225,1.07
+All events,119607,1768,117839,1.48

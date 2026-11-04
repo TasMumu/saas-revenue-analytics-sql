@@ -1,0 +1,16 @@
+company_name,region,plan,mrr,events_prior_30d,events_last_30d,usage_change_pct,active_users_last_30d,escalations_90d,risk_score
+Saffron Mill Labs,Europe,Growth,224.00,6,0,-100.0,0,1,60
+Cobalt Field Logistics,LATAM,Starter,30.00,14,0,-100.0,0,0,60
+Russet Grove Supply,North America,Starter,150.00,25,7,-72.0,2,1,55
+Russet Field Group,North America,Starter,90.00,34,8,-76.0,2,1,55
+Granite Gate Foods,North America,Starter,90.00,14,5,-64.0,1,1,55
+Granite Ridge Foods,North America,Scale,1650.00,0,0,,0,0,50
+Russet Stone Group,North America,Scale,825.00,13,0,-100.0,0,0,50
+Umber Gate Partners,Europe,Growth,608.00,0,0,,0,0,50
+Ember Reach Labs,North America,Growth,320.00,2,0,-100.0,0,0,50
+Juniper Mill Foods,Europe,Growth,480.00,23,11,-52.0,2,1,45
+Quarry Crest Labs,APAC,Growth,256.00,34,11,-68.0,1,1,45
+Pebble Mill Retail Co,Europe,Growth,256.00,11,3,-73.0,1,1,45
+Lantern Reach Logistics,North America,Starter,195.00,23,11,-52.0,2,0,45
+Fallow Grove Logistics,LATAM,Starter,180.00,34,9,-74.0,2,0,45
+Umber Gate Foods,Europe,Starter,165.00,26,13,-50.0,1,0,45

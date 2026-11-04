@@ -1,0 +1,7 @@
+channel,signups,activated_7d_pct,paid_30d_pct,paid_pct_if_activated,paid_pct_if_not_activated,median_days_to_paid
+Referral,111,62.2,49.5,63.8,26.2,17.0
+Partner,87,65.5,48.3,59.6,26.7,16.5
+Outbound,94,55.3,38.3,59.6,11.9,20.0
+Organic search,187,53.5,32.6,50.0,12.6,16.0
+Paid search,121,45.5,26.4,45.5,10.6,15.5
+All channels,600,55.5,37.7,55.3,15.7,17.0

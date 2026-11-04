@@ -1,0 +1,21 @@
+region,plan,accounts,seats,mrr,arpa,share_of_mrr_pct
+APAC,Starter,11,74,1110.00,100.91,1.0
+APAC,Growth,12,188,6016.00,501.33,5.5
+APAC,Scale,9,352,19360.00,2151.11,17.8
+APAC,All plans,32,614,26486.00,827.69,24.4
+Europe,Starter,29,230,3450.00,118.97,3.2
+Europe,Growth,25,362,11584.00,463.36,10.7
+Europe,Scale,6,181,9955.00,1659.17,9.2
+Europe,All plans,60,773,24989.00,416.48,23.0
+LATAM,Starter,10,67,1005.00,100.5,0.9
+LATAM,Growth,6,63,2016.00,336.0,1.9
+LATAM,Scale,3,123,6765.00,2255.0,6.2
+LATAM,All plans,19,253,9786.00,515.05,9.0
+North America,Starter,39,276,4140.00,106.15,3.8
+North America,Growth,22,288,9216.00,418.91,8.5
+North America,Scale,21,617,33935.00,1615.95,31.3
+North America,All plans,82,1181,47291.00,576.72,43.6
+All regions,Starter,89,647,9705.00,109.04,8.9
+All regions,Growth,65,901,28832.00,443.57,26.6
+All regions,Scale,39,1273,70015.00,1795.26,64.5
+All regions,All plans,193,2821,108552.00,562.45,100.0
